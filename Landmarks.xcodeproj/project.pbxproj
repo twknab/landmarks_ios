@@ -48,6 +48,7 @@
 		7DEAB26C2956FAA60012382B /* LandmarksUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarksUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		7DEAB279295701F00012382B /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		7DEAB27B295703A90012382B /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		7DEAB27D29570CF90012382B /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +79,7 @@
 		7DEAB2432956FAA40012382B = {
 			isa = PBXGroup;
 			children = (
+				7DEAB27D29570CF90012382B /* README.md */,
 				7DEAB24E2956FAA40012382B /* Landmarks */,
 				7DEAB25F2956FAA60012382B /* LandmarksTests */,
 				7DEAB2692956FAA60012382B /* LandmarksUITests */,
